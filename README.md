@@ -6,7 +6,7 @@
 💻 I have **2+ years of experience** building full-stack applications, backend APIs, B2B integrations, and AI-assisted engineering workflows.
 🚀 I work with **Node.js, NestJS, Express.js, React, React Native, TypeScript, Python, SQL/NoSQL databases, Docker, and AWS**.
 🔗 Skilled in **REST APIs, authentication, microservices basics, JSON/EDI/XML data translation, clean architecture, testing, and documentation**.
-🤖 Exploring and building with **LLM workflows, RAG, prompt engineering, Vertex AI, Gemini, ChatGPT, Claude Code, Cursor, Roo Code, and GitHub Copilot**.
+🤖 Exploring and building with **LLM workflows, RAG, prompt engineering, Vertex AI, Gemini, ChatGPT, Claude Code, Codex, Kiro, Cursor, Roo Code, and GitHub Copilot**.
 🌍 Based in Karachi, Pakistan and open to **remote work and worldwide relocation**.
 
 ---
@@ -62,6 +62,10 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-7C3AED?style=for-the-badge&logo=amazon&logoColor=white)
+![AI/ML EDA](https://img.shields.io/badge/AI%2FML%20EDA-0F766E?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### ⚙️ DevOps & Tools
@@ -82,7 +86,8 @@
 - **Logistics Management System** - Developed backend services, database models, and modular business logic for logistics workflows and operational data management.
 - **AI Agent Challenge - HackerRank Orchestrate May 2026** - Built and submitted an AI Agent solution, achieved 415th place, and earned a Certificate of Excellence.
 - **B2B Data Translation Workflows** - Engineered Python-based integrations across JSON, EDI, and XML to strengthen API integrations and business data exchange reliability.
-- **AI Data Insights Tool** - Built a Python-based data analysis workflow for trend detection and business insights.
+- **AI/ML EDA & Data Insights Tool** - Built Python-based exploratory data analysis workflows for trend detection, machine learning insights, and business reporting.
+- **AI-Assisted Engineering Workflow** - Used Claude Code, Codex, Kiro, ChatGPT, Gemini, Cursor, Roo Code, and GitHub Copilot for debugging, documentation, test generation, and faster feature delivery.
 
 ---
 
