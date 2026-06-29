@@ -4,7 +4,7 @@ Building research-oriented AI systems that bridge software engineering and intel
 
 I am a Computer Science graduate from KIET with a 3.35 GPA and 2+ years of software engineering experience, actively transitioning into AI research. My focus is on Agentic AI, Retrieval-Augmented Generation, Large Language Models, and Intelligent Decision Support Systems, with working prototypes rather than theory alone.
 
-[ORCID: 0009-0003-4247-233X](https://orcid.org/0009-0003-4247-233X) | [LinkedIn: babar-saeed](https://linkedin.com/in/babar-saeed) | [Email](mailto:babarsaeed2002@gmail.com)
+[ORCID: 0009-0003-4247-233X](https://orcid.org/0009-0003-4247-233X) | [LinkedIn: babar-saeed](https://linkedin.com/in/babar-saeed-300211242) | [Email](mailto:babarsaeed2002@gmail.com)
 
 ## Research Interests
 
@@ -79,4 +79,4 @@ Full-stack multimodal ML system integrating a Python model backend, .NET APIs, P
 
 ## Collaboration
 
-Interested in research collaboration or supervision discussions? Reach out via [email](mailto:babarsaeed2002@gmail.com) or [LinkedIn](https://linkedin.com/in/babar-saeed).
+Interested in research collaboration or supervision discussions? Reach out via [email](mailto:babarsaeed2002@gmail.com) or [LinkedIn](https://linkedin.com/in/babar-saeed-300211242).
