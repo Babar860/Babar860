@@ -17,34 +17,38 @@ I am a Computer Science graduate from KIET with a 3.35 GPA and 2+ years of softw
 
 ## Featured Research Projects
 
-### LogiMind AI - Agentic Logistics Decision Support System
+### [LogiMind AI - Agentic Logistics Decision Support System](https://github.com/Babar860/USAII-Hackathon-logiMind)
 
 An LLM-powered operations agent that predicts shipment risk, retrieves relevant operational policy through RAG, generates auditable mitigation recommendations, and includes a human-approval workflow.
 
 - **Research signals:** agentic reasoning, explainable outputs, Gemini fallback, role-based access, MongoDB adapter
 - **Stack:** Next.js, Express.js, MongoDB, Gemini API
 - **Why supervision fit:** connects LLM agents, retrieval, explainability, and operational decision support in one working prototype
+- **Project contribution:** turns logistics risk prediction into an auditable agent workflow with retrieval-grounded recommendations and human approval
 
-### LearnLink AI Platform
+### [LearnLink AI Platform](https://github.com/Babar860/learnlink)
 
 A modular AI-ready learning platform with service boundaries for frontend, gateway, community, courses, jobs, and autonomous agent services.
 
 - **Research signals:** AI-assisted education, agent service architecture, moderation workflow, cloud-ready microservices
 - **Stack:** Next.js, Node.js, Python agents, PostgreSQL, Firebase/GCP concepts
+- **Project contribution:** demonstrates how AI agents, content moderation, and education workflows can be organized as a research-ready microservice platform
 
-### ASL Sign Recognition System
+### [ASL Sign Recognition System](https://github.com/Babar860/ASL-Sign-Recognition)
 
 Full-stack multimodal ML system integrating a Python model backend, .NET APIs, PostgreSQL, and Android mobile app.
 
 - **Research signals:** multimodal machine learning, accessibility-focused AI, sign-to-text and text-to-sign workflows
 - **Stack:** Python, .NET, PostgreSQL, Android
+- **Project contribution:** connects ML inference with real mobile interaction, backend storage, feedback, and accessibility-focused user workflows
 
-### UK Legislation Data Pipeline
+### [UK Legislation Data Pipeline](https://github.com/Babar860/UK_Legislation_Data_Pipeline)
 
 Python pipeline for collecting, cleaning, and structuring large-scale legal text for downstream RAG and NLP retrieval workflows.
 
 - **Research signals:** legal NLP, structured data extraction, retrieval-ready corpora, deterministic preprocessing
 - **Stack:** Python, BeautifulSoup/XML parsing, Pandas/data processing concepts
+- **Project contribution:** prepares official legal text for downstream NLP and RAG experiments through deterministic structured extraction
 
 ## Research Output
 
