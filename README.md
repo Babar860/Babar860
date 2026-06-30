@@ -78,7 +78,7 @@ GPA: 3.35/4.00
 
 | Competition | Year | Role / Result |
 | --- | ---: | --- |
-| Build with Gemini XPRIZE | 2025 | Participant - 16,328 global participants, $2M prize pool |
+| Build with Gemini XPRIZE | 2026 | Participant - 16,328 global participants, $2M prize pool |
 | USAII Global AI Hackathon | 2026 | Submitted AI solution for real-world impact |
 | HackerRank Orchestrate | May 2026 | Certificate of Excellence - Top 415 globally |
 
