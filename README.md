@@ -1,8 +1,8 @@
-# Babar Saeed - AI Research Aspirant & Software Engineer
+# Hi, I'm Babar Saeed - CS Graduate and AI Research Aspirant
 
-Building research-oriented AI systems that bridge software engineering and intelligent decision support.
+I am a CS graduate and software engineer transitioning into AI research, with a focus on Agentic AI, Retrieval-Augmented Generation, and trustworthy intelligent systems.
 
-I am a Computer Science graduate from KIET with a 3.35 GPA and 2+ years of software engineering experience, actively transitioning into AI research. My focus is on Agentic AI, Retrieval-Augmented Generation, Large Language Models, and Intelligent Decision Support Systems, with working prototypes rather than theory alone.
+I build research-oriented prototypes that connect software engineering, LLM workflows, explainable reasoning, and intelligent decision support.
 
 [ORCID: 0009-0003-4247-233X](https://orcid.org/0009-0003-4247-233X) | [LinkedIn: babar-saeed-300211242](https://linkedin.com/in/babar-saeed-300211242) | [Email](mailto:babarsaeed2002@gmail.com)
 
@@ -19,7 +19,7 @@ I am a Computer Science graduate from KIET with a 3.35 GPA and 2+ years of softw
 
 ### [LogiMind AI - Agentic Logistics Decision Support System](https://github.com/Babar860/USAII-Hackathon-logiMind)
 
-An LLM-powered operations agent that predicts shipment risk, retrieves relevant operational policy through RAG, generates auditable mitigation recommendations, and includes a human-approval workflow.
+Agentic decision support system using LLMs, retrieval-augmented generation, shipment risk scoring, auditable reasoning chains, Gemini fallback, and a human approval workflow. Built as a research prototype for intelligent operational decision support.
 
 - **Research signals:** agentic reasoning, explainable outputs, Gemini fallback, role-based access, MongoDB adapter
 - **Stack:** Next.js, Express.js, MongoDB, Gemini API
@@ -86,7 +86,7 @@ GPA: 3.35/4.00
 
 | Repository | Priority | Why it matters |
 | --- | --- | --- |
-| LogiMind AI | ***** | Strongest fit for Agentic AI, RAG, explainability, and decision support supervision |
+| LogiMind AI | ***** | Pin first. Strongest fit for Agentic AI, RAG, explainability, and decision support supervision |
 | LearnLink AI | **** | Demonstrates AI platform architecture and service-level engineering maturity |
 | ASL Sign Recognition | **** | Shows multimodal ML and accessibility-focused applied AI |
 | UK Legislation Data Pipeline | **** | Supports legal NLP and retrieval-ready data engineering |
@@ -101,9 +101,3 @@ GPA: 3.35/4.00
 ## Collaboration
 
 Interested in research collaboration or supervision discussions? Reach out via [email](mailto:babarsaeed2002@gmail.com) or [LinkedIn](https://linkedin.com/in/babar-saeed-300211242).
-
-## GitHub Stats
-
-![Babar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babar860&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Babar860&theme=default&hide_border=false&layout=compact)
